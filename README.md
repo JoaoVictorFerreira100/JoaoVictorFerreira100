@@ -1,16 +1,15 @@
-## Hi there 👋
+Sou um desenvolvedor iniciante, com foco em desenvolvimento front-end e banco de dados.
+Tenho interesse em tecnologia e em como ela pode transformar ideias em soluções práticas.
+Busco constantemente aprimorar meus conhecimentos e desenvolver novas habilidades.
 
-<!--
-**JoaoVictorFerreira100/JoaoVictorFerreira100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Busco criar interfaces funcionais, organizadas e intuitivas.
+Também tenho interesse na estruturação, organização e gerenciamento de dados.
+Procuro compreender os desafios de cada projeto para encontrar soluções adequadas.
+Estou sempre disposto a aprender novas ferramentas e aprimorar minhas habilidades técnicas.
 
-Here are some ideas to get you started:
+Atualmente, busco uma oportunidade de estágio ou uma posição júnior na área de tecnologia.
+Quero colocar meus conhecimentos em prática e adquirir experiência no ambiente profissional.
+Meu objetivo é construir uma carreira sólida e evoluir continuamente na área.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Conheça melhor o meu trabalho, acesse o link abaixo:
+https://www.linkedin.com/in/jo%C3%A3o-victor-ferreira-dos-santos-oliveira-828561434?trk=contact-info
