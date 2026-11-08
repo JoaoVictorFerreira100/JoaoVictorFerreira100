@@ -1,4 +1,3 @@
-Sou um desenvolvedor iniciante, com foco em desenvolvimento front-end e banco de dados.
 Tenho interesse em tecnologia e em como ela pode transformar ideias em soluções práticas.
 Busco constantemente aprimorar meus conhecimentos e desenvolver novas habilidades.
 
