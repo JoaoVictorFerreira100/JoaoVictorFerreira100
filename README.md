@@ -12,3 +12,13 @@ Meu objetivo é construir uma carreira sólida e evoluir continuamente na área.
 
 Conheça melhor o meu trabalho, acesse o link abaixo:
 https://www.linkedin.com/in/jo%C3%A3o-victor-ferreira-dos-santos-oliveira-828561434?trk=contact-info
+
+
+## My Contribution Graph
+
+<!-- [bomberman] -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[JoãoVictorFerreira100]/[JoãoVictorFerreira100]/output/[bomberman]-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[JoãoVictorFerreira100]/[JoãoVictorFerreira100]/output/[bomberman]-contribution-graph.svg">
+    <img alt="[bomberman] contribution graph" src="https://raw.githubusercontent.com/[JoãoVictorFerreira100]/[JoãoVictorFerreira100]/output/[bomberman]-contribution-graph.svg">
+</picture>
