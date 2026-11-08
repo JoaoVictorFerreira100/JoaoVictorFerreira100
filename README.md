@@ -14,7 +14,6 @@ Conheça melhor o meu trabalho, acesse o link abaixo:
 https://www.linkedin.com/in/jo%C3%A3o-victor-ferreira-dos-santos-oliveira-828561434?trk=contact-info
 
 
-## My Contribution Graph
 
 <!-- [bomberman] -->
 <picture>
