@@ -10,8 +10,7 @@ Atualmente, busco uma oportunidade de estágio ou uma posição júnior na área
 Quero colocar meus conhecimentos em prática e adquirir experiência no ambiente profissional.
 Meu objetivo é construir uma carreira sólida e evoluir continuamente na área.
 
-Conheça melhor o meu trabalho, acesse o link abaixo:
-https://www.linkedin.com/in/jo%C3%A3o-victor-ferreira-dos-santos-oliveira-828561434?trk=contact-info
+
 
 
 
