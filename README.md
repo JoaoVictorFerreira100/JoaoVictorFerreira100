@@ -2,7 +2,7 @@
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/JoaoVictorFerreira100/JoaoVictorFerreira100/output/bomberman-contribution-graph-dark.svg">
 
-  <source media="(prefers-color-scheme: light)"
+  <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/JoaoVictorFerreira100/JoaoVictorFerreira100/output/bomberman-contribution-graph.svg">
 
   <img alt="Bomberman Contribution Graph"
