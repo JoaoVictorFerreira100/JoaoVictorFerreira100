@@ -1,15 +1,9 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/JoaoVictorFerreira100/JoaoVictorFerreira100/output/bomberman-contribution-graph-dark.svg">
-
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/JoaoVictorFerreira100/JoaoVictorFerreira100/output/bomberman-contribution-graph.svg">
-
-  <img alt="Bomberman Contribution Graph"
-    src="https://raw.githubusercontent.com/JoaoVictorFerreira100/JoaoVictorFerreira100/output/bomberman-contribution-graph.svg">
-</picture>
-
-
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/JoaoVictorFerreira100/JoaoVictorFerreira100/output/bomberman-contribution-graph-dark.svg"
+    alt="Bomberman Contribution Graph"
+  />
+</p>
 
 Tenho interesse em tecnologia e em como ela pode transformar ideias em soluções práticas.
 Busco constantemente aprimorar meus conhecimentos e desenvolver novas habilidades.
