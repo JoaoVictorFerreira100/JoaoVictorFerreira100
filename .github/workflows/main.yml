@@ -1,2 +1,0 @@
-- name: generate-pacman-game-from-github-contribution-grid
-  uses: abozanona/pacman-contribution-graph@v5.0.0
