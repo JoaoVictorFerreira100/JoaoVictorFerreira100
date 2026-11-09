@@ -1,3 +1,16 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/JoaoVictorFerreira100/JoaoVictorFerreira100/output/bomberman-contribution-graph-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/JoaoVictorFerreira100/JoaoVictorFerreira100/output/bomberman-contribution-graph.svg">
+
+  <img alt="Bomberman Contribution Graph"
+    src="https://raw.githubusercontent.com/JoaoVictorFerreira100/JoaoVictorFerreira100/output/bomberman-contribution-graph.svg">
+</picture>
+
+
+
 Tenho interesse em tecnologia e em como ela pode transformar ideias em soluções práticas.
 Busco constantemente aprimorar meus conhecimentos e desenvolver novas habilidades.
 
@@ -9,14 +22,3 @@ Estou sempre disposto a aprender novas ferramentas e aprimorar minhas habilidade
 Atualmente, busco uma oportunidade de estágio ou uma posição júnior na área de tecnologia.
 Quero colocar meus conhecimentos em prática e adquirir experiência no ambiente profissional.
 Meu objetivo é construir uma carreira sólida e evoluir continuamente na área.
-
-
-
-
-
-<!-- [bomberman] -->
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[JoãoVictorFerreira100]/[JoãoVictorFerreira100]/output/[bomberman]-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[JoãoVictorFerreira100]/[JoãoVictorFerreira100]/output/[bomberman]-contribution-graph.svg">
-    <img alt="[bomberman] contribution graph" src="https://raw.githubusercontent.com/[JoãoVictorFerreira100]/[JoãoVictorFerreira100]/output/[bomberman]-contribution-graph.svg">
-</picture>
